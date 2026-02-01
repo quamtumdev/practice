@@ -6,3 +6,7 @@ const dob = '20/07/1998';
 function sayName (){
     console.log('My Name is Ajay Pratap');
 }
+
+function newFeatureAdd(){
+    console.log('This is a new feature');
+}
